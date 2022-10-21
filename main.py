@@ -1,7 +1,7 @@
 from pathlib import Path
 import time
 
-intro_file = Path("hello_world.txt")
+intro_file = Path("instructions.txt")
 outro_file = Path("goodbye.txt")
 
 
