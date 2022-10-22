@@ -11,10 +11,10 @@ if not data_dir.exists():
 
 
 with intro_file.open() as f:
-    instructions = f.readline()
+    instructions = f.readlines()
 
 with outro_file.open() as f:
-    debreif = f.readline()
+    debreif = f.readlines()
 
 def save_data(data: str) -> None:
     today = datetime.datetime.now()
