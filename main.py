@@ -31,3 +31,6 @@ def main():
     save_data(name)
     time.sleep(1)
     print(debreif)
+
+if __name__ == "__main__":
+    main()
