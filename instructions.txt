@@ -1,4 +1,4 @@
-Hello from the Clone!
+Hello, I edited this line in both the clone and the OG repo
 
 Welcome to My Experiment
 
