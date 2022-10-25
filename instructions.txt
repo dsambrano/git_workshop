@@ -1,4 +1,4 @@
-Hello Participant!
+Hello from the OG repo!
 
 Welcome to My Experiment
 
