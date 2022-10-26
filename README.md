@@ -1,7 +1,7 @@
 # Leanring the Basics of Git and GitHub
 
-This Repo is a companion of my [blog][] post, where I taught a workshop on using git and GitHub.
-You can access the full [series here][series].
+This Repo is a companion for a post from my [blog][] where I taught a workshop on using git and GitHub.
+You can access the [full series here][series].
 
 Throughout the tutorials, you will learn how to create a git repo and connect it to GitHub.
 You will learn about cloning repos and dealing with merge conflicts.
